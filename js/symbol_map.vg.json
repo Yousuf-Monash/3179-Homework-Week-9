@@ -15,7 +15,7 @@
           },
           {
             "data": {
-              "url": "https://raw.githubusercontent.com/JiazhouLiu/FIT3179/main/VegaLite/2_symbol_map/data/earthquake.csv"
+              "url": "https://github.com/Yousuf-Monash/3179-Homework-Week-9/blob/main/data/Global%20YouTube%20Statistics.csv"
             },
             "mark": {"type": "circle", "tooltip": {"content": "data"}},
             "encoding": {
